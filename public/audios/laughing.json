@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "soundFile": "D:\\wawasensei\\r3f-vite-starter\\public\\audios\\Laughing.ogg",
+    "duration": 1.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 1.09, "value": "A" },
+    { "start": 1.09, "end": 1.17, "value": "D" },
+    { "start": 1.17, "end": 1.25, "value": "A" },
+    { "start": 1.25, "end": 1.42, "value": "B" },
+    { "start": 1.42, "end": 1.67, "value": "X" }
+  ]
+}

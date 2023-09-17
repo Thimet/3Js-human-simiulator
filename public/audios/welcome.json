@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "soundFile": "D:\\wawasensei\\r3f-vite-starter\\public\\audios\\Welcome.ogg",
+    "duration": 2.08
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.06, "value": "X" },
+    { "start": 0.06, "end": 0.19, "value": "C" },
+    { "start": 0.19, "end": 0.26, "value": "B" },
+    { "start": 0.26, "end": 0.33, "value": "C" },
+    { "start": 0.33, "end": 0.75, "value": "B" },
+    { "start": 0.75, "end": 0.96, "value": "F" },
+    { "start": 0.96, "end": 1.24, "value": "B" },
+    { "start": 1.24, "end": 1.45, "value": "C" },
+    { "start": 1.45, "end": 1.52, "value": "F" },
+    { "start": 1.52, "end": 1.66, "value": "B" },
+    { "start": 1.66, "end": 1.73, "value": "C" },
+    { "start": 1.73, "end": 1.93, "value": "A" },
+    { "start": 1.93, "end": 2.08, "value": "X" }
+  ]
+}
